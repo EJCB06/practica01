@@ -15,3 +15,15 @@ cxambio desde visual
 ## encabezado tipo h2
 
 ### encabezado tipo h3
+
+ejecutamos el comando `ls -la`y consultamos la salida.
+
+```
+ls -la
+```
+
+```SQL
+SELECT *
+FROM USUARIOS;
+```
+
