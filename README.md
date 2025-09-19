@@ -26,4 +26,18 @@ ls -la
 SELECT *
 FROM USUARIOS;
 ```
+Ir a la web de [iescelia](https://iescelia)
+
+
+enlaces a la página web del [cero][1] 
+
+[1]: (https://iescelia)
+
+
+![imagen] (https://rutaimagen)
+
+paquetes a instalar:
+- mysql
+- apache
+- pa hacer listas
 
