@@ -26,7 +26,7 @@ ls -la
 SELECT *
 FROM USUARIOS;
 ```
-Ir a la web de [iescelia](https://iescelia)
+Ir a la web de [iescelia](https://iescelia.org)
 
 
 enlaces a la página web del [cero][1] 
