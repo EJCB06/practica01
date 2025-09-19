@@ -9,3 +9,9 @@ añadimos una nueva linea
 nuevo texto
 
 cxambio desde visual
+
+# encabezado tipo h1
+
+## encabezado tipo h2
+
+### encabezado tipo h3
