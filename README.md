@@ -44,4 +44,4 @@ paquetes a instalar:
 ![imagen externa](https://www.google.com/imgres?q=imagenes&imgurl=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F640%2Fcpsprodpb%2F9db5%2Flive%2F48fd9010-c1c1-11ee-9519-97453607d43e.jpg.webp&imgrefurl=https%3A%2F%2Fwww.bbc.com%2Fmundo%2Farticles%2Fcw54v3evknlo&docid=9m3lourTG-Pj_M&tbnid=R-8gCC1WuUvy-M&vet=12ahUKEwjLoL74teSPAxX4UqQEHfsLHhMQM3oECBoQAA..i&w=640&h=360&hcb=2&ved=2ahUKEwjLoL74teSPAxX4UqQEHfsLHhMQM3oECBoQAA)
 
 
-Ir a la otra [página]()
+Ir a la otra [página](Markdown)
