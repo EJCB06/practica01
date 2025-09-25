@@ -45,3 +45,6 @@ paquetes a instalar:
 
 
 Ir a la otra [página](Markdown)
+
+*git clone*: para clonar repositorios
+
